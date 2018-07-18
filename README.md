@@ -6,7 +6,7 @@ HealthHack is a free event that brings researchers, students and healthcare prof
 
 Repositories of projects from HealthHack 2013 to HealthHack 2017 are available here:<br />
 https://github.com/HealthHackAustralia/HealthHackAustralia
-<br />
+<br /><br />
 
 HealthHack is run under the auspices of [Linux Australia][LAwebsite].
 
