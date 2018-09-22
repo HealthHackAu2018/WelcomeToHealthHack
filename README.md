@@ -8,6 +8,8 @@ Repositories of projects from HealthHack 2013 to HealthHack 2017 are available h
 https://github.com/HealthHackAustralia/HealthHackAustralia
 <br /><br />
 
+All code produced at HealthHack is licenced under one of these open sources licences: https://opensource.org/licenses
+
 HealthHack is run under the auspices of [Linux Australia][LAwebsite].
 
 [website]: https://www.healthhack.com.au/
